@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays a quote renders one single quote 1`] = `
+<DocumentFragment>
+  <figure>
+    <p />
+  </figure>
+</DocumentFragment>
+`;
